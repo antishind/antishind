@@ -1,4 +1,4 @@
-👋Antishin Danill 28.11.2004 Education: MIPT. System analysis and management (since 2022)
+👋Antishin Danill 28.11.2004 Education: MIPT. System analysis and management 
 
 💻Stack: Python, SQL, Algorithms and data structures, NumPy, pandas, Matplotlib, MS Office, Calculus, Linear algebra, Probability, Math statistics, Combinatorics
 
